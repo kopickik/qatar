@@ -1,4 +1,4 @@
-// Arc Tween clock
+// Lorenz Toy (http://bl.ocks.org/mbostock/5397710)
 define(['d3'], function(d3) {
   var δτ = 0.003,
     ρ = 28,
